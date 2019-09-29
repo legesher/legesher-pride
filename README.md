@@ -1,2 +1,2 @@
-# legesher-marketing
-🔥 Open-Source software needs marketing too! 
+# legesher-pride
+🔥 Open-Source software needs a community!
