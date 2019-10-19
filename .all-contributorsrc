@@ -1,19 +1,24 @@
 {
   "projectName": "legesher-pride",
   "projectOwner": "madiedgar",
-  "files": ["README.md"],
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
-  "contributorsPerLine": 7,
-  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
-  "contributorTemplate": "<%= avatarBlock %><br /><%= contributions %>",
-  "types": {
-    "custom":
+  "commit": true,
+  "commitConvention": "atom",
+  "contributors": [
     {
-      "symbol": "💌",
-      "description": "Marketing - People who help in marketing the repo/project",
-      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+      "login": "madiedgar",
+      "name": "Madison (Pfaff) Edgar",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7844510?v=4",
+      "profile": "http://withmadi.co",
+      "contributions": [
+        "projectManagement"
+      ]
     }
-  },
-  "skipCi": "true",
-  "contributors": []
+  ],
+  "contributorsPerLine": 7
 }
