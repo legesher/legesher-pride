@@ -1,0 +1,19 @@
+{
+  "projectName": "legesher-pride",
+  "projectOwner": "madiedgar",
+  "files": ["README.md"],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<%= avatarBlock %><br /><%= contributions %>",
+  "types": {
+    "custom":
+    {
+      "symbol": "💌",
+      "description": "Marketing - People who help in marketing the repo/project",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "skipCi": "true",
+  "contributors": []
+}
