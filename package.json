@@ -1,0 +1,26 @@
+{
+  "name": "legesher-pride",
+  "version": "0.0.1",
+  "description": "Allowing a non-programmer's dream to contributing to open source by sharing what they know and learning what's new",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legesher/legesher-pride.git"
+  },
+  "keywords": [
+    "non-programmers",
+    "open-source"
+  ],
+  "author": "Madison Edgar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legesher/legesher-pride/issues"
+  },
+  "homepage": "https://github.com/legesher/legesher-pride#readme",
+  "dependencies": {
+    "all-contributors-cli": "^6.9.2"
+  }
+}
