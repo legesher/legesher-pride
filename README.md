@@ -63,6 +63,12 @@
 
 This is the repository that hosts the brand style guide and other promotional material that individuals may use to create / promote the Legesher project.
 
+# Contributing
+
+❤️Legesher relies on the passionate members of its community (both developer and non-developer alike) to keep delivering impactful tools to people all over the world.
+
+Before contributing, be sure to consult Legesher's [contribution guidelines](https://github.com/legesher/legesher/blob/master/CONTRIBUTING.md) and [language conventions](https://github.com/legesher/legesher/blob/master/LANGUAGE_CONVENTIONS.md). As a member of our community, you must abide by our [Code Of Conduct](https://github.com/legesher/legesher/blob/master/CODE_OF_CONDUCT.md).
+
 # Legesher Projects
 
 Legesher Developer Tools might be useful to you if:
