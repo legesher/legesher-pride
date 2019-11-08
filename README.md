@@ -26,7 +26,7 @@
     <!-- <a href="https://streamlabs.com/withmadico/tip" alt="Backers on Github">
         <img src="https://img.shields.io/badge/sponsors-4-black?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-1-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-6-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://instagram.com/withmadico" alt="Sponsors on Github">
         <img src="https://img.shields.io/badge/sponsor-@withmadico-black?style=flat-square&color=f58977&labelColor=black" /></a>
 
@@ -102,6 +102,11 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
 <table>
   <tr>
     <td align="center"><a href="http://withmadi.co"><img src="https://avatars0.githubusercontent.com/u/7844510?v=4" width="100px;" alt="Madison (Pfaff) Edgar"/><br /><sub><b>Madison (Pfaff) Edgar</b></sub></a><br /><a href="#projectManagement-madiedgar" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/takashiw"><img src="https://avatars1.githubusercontent.com/u/8411001?v=4" width="100px;" alt="Takashi Wickes"/><br /><sub><b>Takashi Wickes</b></sub></a><br /><a href="#design-takashiw" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/imgovind"><img src="https://avatars0.githubusercontent.com/u/4269318?v=4" width="100px;" alt="Govindarajan Panneerselvam"/><br /><sub><b>Govindarajan Panneerselvam</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-pride/commits?author=imgovind" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/thiagondl"><img src="https://avatars0.githubusercontent.com/u/44266113?v=4" width="100px;" alt="Thiago Lima"/><br /><sub><b>Thiago Lima</b></sub></a><br /><a href="#ideas-thiagondl" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/iMeriem"><img src="https://avatars1.githubusercontent.com/u/11720929?v=4" width="100px;" alt="Meriem Zaid"/><br /><sub><b>Meriem Zaid</b></sub></a><br /><a href="#ideas-iMeriem" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/jaywahr"><img src="https://avatars2.githubusercontent.com/u/6069258?v=4" width="100px;" alt="jaywahr"/><br /><sub><b>jaywahr</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-pride/commits?author=jaywahr" title="Documentation">📖</a></td>
   </tr>
 </table>
 

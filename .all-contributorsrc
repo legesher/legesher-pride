@@ -7,10 +7,9 @@
     "README.md"
   ],
   "types": {
-    "marketing":
-    {
+    "marketing": {
       "symbol": "💌",
-      "description": "Marketing - People who help in marketing the repo/project",
+      "description": "Marketing - People who help in marketing the repo/project"
     }
   },
   "imageSize": 100,
@@ -24,6 +23,51 @@
       "profile": "http://withmadi.co",
       "contributions": [
         "projectManagement"
+      ]
+    },
+    {
+      "login": "takashiw",
+      "name": "Takashi Wickes",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8411001?v=4",
+      "profile": "https://github.com/takashiw",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "imgovind",
+      "name": "Govindarajan Panneerselvam",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4269318?v=4",
+      "profile": "https://github.com/imgovind",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "thiagondl",
+      "name": "Thiago Lima",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44266113?v=4",
+      "profile": "https://github.com/thiagondl",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "iMeriem",
+      "name": "Meriem Zaid",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11720929?v=4",
+      "profile": "https://github.com/iMeriem",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "jaywahr",
+      "name": "jaywahr",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6069258?v=4",
+      "profile": "https://github.com/jaywahr",
+      "contributions": [
+        "doc"
       ]
     }
   ],
