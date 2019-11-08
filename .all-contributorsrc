@@ -60,6 +60,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "jaywahr",
+      "name": "jaywahr",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6069258?v=4",
+      "profile": "https://github.com/jaywahr",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7

@@ -106,6 +106,7 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/imgovind"><img src="https://avatars0.githubusercontent.com/u/4269318?v=4" width="100px;" alt="Govindarajan Panneerselvam"/><br /><sub><b>Govindarajan Panneerselvam</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-pride/commits?author=imgovind" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/thiagondl"><img src="https://avatars0.githubusercontent.com/u/44266113?v=4" width="100px;" alt="Thiago Lima"/><br /><sub><b>Thiago Lima</b></sub></a><br /><a href="#ideas-thiagondl" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/iMeriem"><img src="https://avatars1.githubusercontent.com/u/11720929?v=4" width="100px;" alt="Meriem Zaid"/><br /><sub><b>Meriem Zaid</b></sub></a><br /><a href="#ideas-iMeriem" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/jaywahr"><img src="https://avatars2.githubusercontent.com/u/6069258?v=4" width="100px;" alt="jaywahr"/><br /><sub><b>jaywahr</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-pride/commits?author=jaywahr" title="Documentation">📖</a></td>
   </tr>
 </table>
 
