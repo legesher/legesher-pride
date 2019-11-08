@@ -7,10 +7,9 @@
     "README.md"
   ],
   "types": {
-    "marketing":
-    {
+    "marketing": {
       "symbol": "💌",
-      "description": "Marketing - People who help in marketing the repo/project",
+      "description": "Marketing - People who help in marketing the repo/project"
     }
   },
   "imageSize": 100,
@@ -24,6 +23,15 @@
       "profile": "http://withmadi.co",
       "contributions": [
         "projectManagement"
+      ]
+    },
+    {
+      "login": "takashiw",
+      "name": "Takashi Wickes",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8411001?v=4",
+      "profile": "https://github.com/takashiw",
+      "contributions": [
+        "design"
       ]
     }
   ],
