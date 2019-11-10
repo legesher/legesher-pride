@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/sponsors-4-black?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
         <img src="https://img.shields.io/badge/all_contributors-6-black?style=flat-square&color=f58977&labelColor=black" /></a>
-    <a href="https://instagram.com/withmadico" alt="Sponsors on Github">
+    <a href="https://github.com/sponsors/madiedgar" alt="Sponsors on Github">
         <img src="https://img.shields.io/badge/sponsor-@withmadico-black?style=flat-square&color=f58977&labelColor=black" /></a>
 
 </p>
