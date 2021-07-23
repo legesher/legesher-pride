@@ -1,6 +1,6 @@
 {
   "projectName": "legesher-pride",
-  "projectOwner": "madiedgar",
+  "projectOwner": "legesher",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -68,6 +68,15 @@
       "profile": "https://github.com/jaywahr",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "onFilm",
+      "name": "Prajwal Acharya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26830666?v=4",
+      "profile": "https://github.com/onFilm",
+      "contributions": [
+        "bug"
       ]
     }
   ],
