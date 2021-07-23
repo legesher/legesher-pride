@@ -103,16 +103,17 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
   <tr>
     <td align="center"><a href="http://withmadi.co"><img src="https://avatars0.githubusercontent.com/u/7844510?v=4" width="100px;" alt="Madison (Pfaff) Edgar"/><br /><sub><b>Madison (Pfaff) Edgar</b></sub></a><br /><a href="#projectManagement-madiedgar" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/takashiw"><img src="https://avatars1.githubusercontent.com/u/8411001?v=4" width="100px;" alt="Takashi Wickes"/><br /><sub><b>Takashi Wickes</b></sub></a><br /><a href="#design-takashiw" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/imgovind"><img src="https://avatars0.githubusercontent.com/u/4269318?v=4" width="100px;" alt="Govindarajan Panneerselvam"/><br /><sub><b>Govindarajan Panneerselvam</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-pride/commits?author=imgovind" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/imgovind"><img src="https://avatars0.githubusercontent.com/u/4269318?v=4" width="100px;" alt="Govindarajan Panneerselvam"/><br /><sub><b>Govindarajan Panneerselvam</b></sub></a><br /><a href="https://github.com/legesher/legesher-pride/commits?author=imgovind" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/thiagondl"><img src="https://avatars0.githubusercontent.com/u/44266113?v=4" width="100px;" alt="Thiago Lima"/><br /><sub><b>Thiago Lima</b></sub></a><br /><a href="#ideas-thiagondl" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/iMeriem"><img src="https://avatars1.githubusercontent.com/u/11720929?v=4" width="100px;" alt="Meriem Zaid"/><br /><sub><b>Meriem Zaid</b></sub></a><br /><a href="#ideas-iMeriem" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/jaywahr"><img src="https://avatars2.githubusercontent.com/u/6069258?v=4" width="100px;" alt="jaywahr"/><br /><sub><b>jaywahr</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-pride/commits?author=jaywahr" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/onFilm"><img src="https://avatars.githubusercontent.com/u/26830666?v=4" width="100px;" alt="Prajwal Acharya"/><br /><sub><b>Prajwal Acharya</b></sub></a><br /><a href="https://github.com/madiedgar/legesher-pride/issues?q=author%3AonFilm" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/jaywar"><img src="https://avatars2.githubusercontent.com/u/6069258?v=4" width="100px;" alt="jaywar"/><br /><sub><b>jaywar</b></sub></a><br /><a href="https://github.com/legesher/legesher-pride/commits?author=jaywar" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/onFilm"><img src="https://avatars.githubusercontent.com/u/26830666?v=4" width="100px;" alt="Prajwal Acharya"/><br /><sub><b>Prajwal Acharya</b></sub></a><br /><a href="https://github.com/legesher/legesher-pride/issues?q=author%3AonFilm" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 _This project follows the [all-contributors](https://allcontributors.org/) specification. Contributions of any kind are welcome and recognized. ✨_
