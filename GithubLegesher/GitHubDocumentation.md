@@ -8,9 +8,11 @@ It combines the Bash command line experience with git commands. Through the git 
 Go to [git scm downloads](https://git-scm.com/downloads) to download and install Git to your machine.
 
 You will choose one of the options based on your operating system.
+
 ![Git Download Options](Git_Download_Options.PNG "Git Download Options")
 
 Once you download the proper files, you should see an exe file in your bottom left corner of your browser. You can click on it to start the process of installing Git to your machine.
+
 ![Exe File Download](Exe_Download.PNG "Exe Download Screen")
 
 Follow through with the installation process. The defaults are typically good and enough for you to get started with Legesher.
@@ -38,6 +40,7 @@ Once you have decided which repository you want to fork, go to it. In this tutor
 You can follow these instructions for any legesher repository you want.
 
 Go to the repository site and click on the fork button on the top-right corner.
+
 ![Fork Button](Fork_Button.PNG "Fork Button")
 
 Github may ask where you want to fork this repository to. Choose where you want to fork it. After this step, you will redirected to a new page of your newly forked repository. You will notice that the path for your repository is different than legesher/legesher-docs. It will likely be something along the lines of username/legesher-docs. Congratulations :tada: you have officially forked a repository!
@@ -57,7 +60,7 @@ Open your Git Bash application you downloaded earlier. It should look something 
 ![Git Bash Example](Git_Bash_Example.PNG "Example of Git Bash on Opening")
 
 You will need to navigate to a folder in your desktop where you feel comfortable holding the legesher repository you have forked and cloned.
-A command that is useful is the cd command. Please take a look at this link[cd command guide](https://www.educative.io/edpresso/what-is-git-bash-change-directory) to help you better understand the cd or change directory command.
+A command that is useful is the cd command. Please take a look at this link [cd command guide](https://www.educative.io/edpresso/what-is-git-bash-change-directory) to help you better understand the cd or change directory command.
 
 Once you have reached the place you would like to clone your repository to, you can type the following command into your GitBash:
 ```
