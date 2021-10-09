@@ -26,9 +26,9 @@
     <!-- <a href="https://streamlabs.com/withmadico/tip" alt="Backers on Github">
         <img src="https://img.shields.io/badge/sponsors-4-black?style=flat-square&color=f58977&labelColor=black" /></a> -->
     <a href="#the-community" alt="All Contributors">
-        <img src="https://img.shields.io/badge/all_contributors-6-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/all_contributors-8-black?style=flat-square&color=f58977&labelColor=black" /></a>
     <a href="https://github.com/sponsors/madiedgar" alt="Sponsors on Github">
-        <img src="https://img.shields.io/badge/sponsor-@withmadico-black?style=flat-square&color=f58977&labelColor=black" /></a>
+        <img src="https://img.shields.io/badge/sponsor-@madiedgar-black?style=flat-square&color=f58977&labelColor=black" /></a>
 
 </p>
 <!-- SOCIAL BADGES -->
@@ -36,9 +36,9 @@
     <a href="https://github.com/legesher">
         <img src="https://img.shields.io/badge/-Contribute-black?style=flat-square&logo=github&logoColor=7ed2e7"
             alt="Contribute on Github"></a>
-    <a href="https://twitch.tv/withmadico">
+    <!-- <a href="https://twitch.tv/withmadico">
         <img src="https://img.shields.io/badge/-Watch-black?style=flat-square&logo=twitch&logoColor=7ed2e7"
-            alt="Watch on Twitch"></a>
+            alt="Watch on Twitch"></a> -->
     <a href="https://discord.gg/DkVjVDP">
         <img src="https://img.shields.io/badge/-Chat-black?style=flat-square&logo=discord&logoColor=7ed2e7"
             alt="chat on Discord"></a>
@@ -48,10 +48,10 @@
     <a href="https://twitter.com/intent/follow?screen_name=legesherio">
         <img src="https://img.shields.io/badge/-Tweet-black?style=flat-square&logo=twitter&logoColor=7ed2e7"
             alt="follow on Twitter"></a>
-    <a href="https://medium.com/@legesher">
+    <!-- <a href="https://medium.com/@legesher">
         <img src="https://img.shields.io/badge/-Read-black?style=flat-square&logo=medium&logoColor=7ed2e7"
-            alt="Read on Medium"></a>
-    <a href="https://legesher.io">
+            alt="Read on Medium"></a> -->
+    <a href="https://mailchi.mp/083d8b2e0e12/legesher-landing-page">
         <img src="https://img.shields.io/badge/-Subscribe-black?style=flat-square&logo=mailchimp&logoColor=7ed2e7"
             alt="Subscribe on Mailchimp"></a>    
 </p>
@@ -106,14 +106,16 @@ Meet our [community](https://github.com/legesher/legesher/tree/master/community)
     <td align="center"><a href="https://github.com/imgovind"><img src="https://avatars0.githubusercontent.com/u/4269318?v=4" width="100px;" alt="Govindarajan Panneerselvam"/><br /><sub><b>Govindarajan Panneerselvam</b></sub></a><br /><a href="https://github.com/legesher/legesher-pride/commits?author=imgovind" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/thiagondl"><img src="https://avatars0.githubusercontent.com/u/44266113?v=4" width="100px;" alt="Thiago Lima"/><br /><sub><b>Thiago Lima</b></sub></a><br /><a href="#ideas-thiagondl" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/iMeriem"><img src="https://avatars1.githubusercontent.com/u/11720929?v=4" width="100px;" alt="Meriem Zaid"/><br /><sub><b>Meriem Zaid</b></sub></a><br /><a href="#ideas-iMeriem" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/jaywar"><img src="https://avatars2.githubusercontent.com/u/6069258?v=4" width="100px;" alt="jaywar"/><br /><sub><b>jaywar</b></sub></a><br /><a href="https://github.com/legesher/legesher-pride/commits?author=jaywar" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/jaywahr"><img src="https://avatars2.githubusercontent.com/u/6069258?v=4" width="100px;" alt="jaywahr"/><br /><sub><b>jaywahr</b></sub></a><br /><a href="https://github.com/legesher/legesher-pride/commits?author=jaywahr" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/onFilm"><img src="https://avatars.githubusercontent.com/u/26830666?v=4" width="100px;" alt="Prajwal Acharya"/><br /><sub><b>Prajwal Acharya</b></sub></a><br /><a href="https://github.com/legesher/legesher-pride/issues?q=author%3AonFilm" title="Bug reports">🐛</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/vmiller77"><img src="https://avatars.githubusercontent.com/u/15698826?v=4" width="100px;" alt="Victoria Miller"/><br /><sub><b>Victoria Miller</b></sub></a><br /><a href="https://github.com/legesher/legesher-pride/commits?author=vmiller77" title="Documentation">📖</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 _This project follows the [all-contributors](https://allcontributors.org/) specification. Contributions of any kind are welcome and recognized. ✨_
