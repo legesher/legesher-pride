@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/legesher/legesher-pride#readme",
   "dependencies": {
-    "all-contributors-cli": "^6.9.2"
+    "all-contributors-cli": "^6.26.1"
   }
 }
