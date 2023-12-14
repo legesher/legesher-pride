@@ -1,0 +1,30 @@
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+  categories:
+    - title: Breaking Changes 🛠
+      labels:
+        - Semver-Major
+    - title: Exciting New Features 🎉
+      labels:
+        - Semver-Minor
+    - title: Commmunity Highlights
+      labels:
+        - first timers only
+        - help wanted
+        - good first issue
+        - Hacktoberfest-Accepted
+        - up-for-grabs
+    - title: Dialect Highlights
+      labels:
+        - "Dialect: *"
+    - title: Language Highlights
+      labels:
+        - "Language: *"
+    - title: Opportunity Highlights
+      labels:
+        - "Opportunity: *"
+    - title: Other Highlights
+      labels:
+        - "*"
