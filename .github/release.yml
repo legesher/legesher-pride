@@ -9,25 +9,9 @@ changelog:
     - title: Exciting New Features 🎉
       labels:
         - Semver-Minor
-    - title: Commmunity Highlights 💫
-      labels:
-        - "first timers only"
-        - "help wanted"
-        - "good first issue"
-        - "Hacktoberfest-Accepted"
-        - "up-for-grabs"
-    - title: Dialect Highlights 🗺️
-      labels:
-        - "Dialect: *"
-    - title: Programming Language Highlights 💻
-      labels:
-        - "Language: *"
-    - title: Opportunity Highlights 🦄
-      labels:
-        - "Opportunity: *"
     - title: Security Upgrades 🔐
       author:
         - dependabot
-    - title: Other Highlights 
+    - title: Other Highlights ✨ 
       labels:
         - "*"
