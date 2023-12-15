@@ -13,7 +13,7 @@ changelog:
       labels:
         - "*"
       exclude:
-        labels:
+        authors:
           - dependabot
     - title: Security Upgrades 🔐
       labels:
