@@ -9,9 +9,13 @@ changelog:
     - title: Exciting New Features 🎉
       labels:
         - Semver-Minor
-    - title: Security Upgrades 🔐
-      authors:
-        - dependabot
     - title: Other Highlights ✨ 
       labels:
         - "*"
+      exclude:
+        labels:
+          - dependabot
+    - title: Security Upgrades 🔐
+      labels:
+        - dependabot
+
