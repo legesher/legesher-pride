@@ -10,7 +10,7 @@ changelog:
       labels:
         - Semver-Minor
     - title: Security Upgrades 🔐
-      author:
+      authors:
         - dependabot
     - title: Other Highlights ✨ 
       labels:
