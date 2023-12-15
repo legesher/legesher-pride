@@ -17,5 +17,5 @@ changelog:
           - dependabot
     - title: Security Upgrades 🔐
       labels:
-        - dependabot
+        - dependencies
 
