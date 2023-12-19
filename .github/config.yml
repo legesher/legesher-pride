@@ -3,36 +3,42 @@ blank_issues_enabled: false
 
 # Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
 newIssueWelcomeComment: |
-  👋 Thanks for opening your first issue here! If you're reporting a 🐞 bug, please make sure you include steps to reproduce it. We get a lot of issues on this repo, so please be patient and we will get back to you as soon as we can.
-  To help make it easier for us to investigate your issue, please follow the [contributing guidelines](https://docs.legesher.io/the-official-things/contributing-guidelines).
+  👋 Thanks for opening your first issue here! We appreciate your contribution to Legesher. 
+
+  It can be really hard for new contributors to get started, so we're glad you're here. We value your contributions and ask that you follow our [contributing guidelines](https://docs.legesher.io/the-official-things/contributing-guidelines). If you have any questions or need assistance, feel free to ask. We're here to help!
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 newPRWelcomeComment: |
   💖 Thanks for opening this pull request! 💖
 
-  We use [semantic commit messages](https://docs.legesher.io/the-official-things/contributing-guidelines#commit-message-guidelines) to streamline the release process. Before your pull request can be merged, you should **update your pull request title** to start with a semantic prefix.
+  At Legesher, we welcome all contributions. We appreciate you taking the time to contribute.
 
-  Examples of commit messages with semantic prefixes:
+  We understand that it can be overwhelming to open your first pull request, but don't worry, we're here to help you make it a clean and successful one.
+
+  To streamline the release process, we use [semantic commit messages](https://docs.legesher.io/the-official-things/contributing-guidelines#commit-message-guidelines). Before your pull request can be merged, please **update your pull request title** to start with a semantic prefix.
+
+  Here are some examples of commit messages with semantic prefixes:
 
   - `fix: don't overwrite prevent_default if default wasn't prevented`
   - `feat: add app.isPackaged() method`
   - `docs: app.isDefaultProtocolClient is now available on Linux`
 
-  Things that will help get your PR across the finish line:
+  To ensure a smooth review process, please consider the following:
 
   - Follow the JavaScript, C++, and Python [coding style](https://docs.legesher.io/legesher-docs/coding-style).
   - Run `npm run lint` locally to catch formatting errors earlier.
   - Document any user-facing changes you've made following the [documentation styleguide](https://docs.legesher.io/legesher-docs/style-guide).
   - Include tests when adding/changing behavior.
-  - Include screenshots and animated GIFs whenever possible.
+  - Whenever possible, include screenshots and animated GIFs to showcase your changes.
 
-  We get a lot of pull requests on this repo, so please be patient and we will get back to you as soon as we can.
+  Thank you for your contribution, and we look forward to working with you on this pull request!
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 firstPRMergeComment: >
-  ### 🎉 Congrats on merging your first pull request! 🎉
-  ❤️ **THANK YOU THANK YOU THANK YOU** ❤️
+  **🎉 Congrats on merging your first pull request! 🎉**
 
-  We'd love to celebrate you and your contribution to the community. Let us say "Thank You" again, by sending you a [special gift](https://legesher.io/dreamteam.html) only given to special individuals like you who have chosen to give back.
-
-  We couldn't thank you enough for your contribution. We hope you continue sharing your gifts and knowledge with not just us, but with the world around you.😍
+  It's been really special to collaborate with you. 
+  
+  We'd love to send you thank-you via snail mail! Please visit [this link](https://legesher.io/dreamteam.html) to provide your details. 
+  
+  Thank you again for your contribution, and we encourage you to continue sharing your gifts and knowledge with the world around you. 😍
