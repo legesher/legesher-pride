@@ -1,4 +1,4 @@
-<img src="/lib/images/README-EggPeggy.png" align="center"/>
+<img src="/lib/images/readme_legesher_pride_hero.png" align="center"/>
 
 <h1 align="center">Legesher Pride</h1>
 <blockquote align="center">A non-programmer's dream to contributing to open source by sharing what they know and learning what's new. 🔥</blockquote>
