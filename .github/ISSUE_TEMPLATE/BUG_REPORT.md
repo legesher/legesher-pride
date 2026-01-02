@@ -1,38 +1,57 @@
 ---
-name: 🐛 Bug report
-about: Create a report to help us improve
+name: Bug Report
+about: Found something broken? Let us know!
+labels: bug
+---
+
+## Describe the Bug
+
+A clear and concise description of what the bug is.
+
+## Steps to Reproduce
+
+1. Go to '...'
+2. Click on '...'
+3. See error
+
+## Expected Behavior
+
+What did you expect to happen?
+
+## Screenshots
+
+If applicable, add screenshots to help explain the problem.
+
+## Environment
+
+- **Browser:** (e.g., Chrome 120, Safari 17)
+- **Device:** (e.g., Desktop, iPhone 15)
+- **OS:** (e.g., macOS 14, Windows 11)
+
+## Possible Solution
+
+Any thoughts on what might be causing this or how to fix it?
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Want to Fix It Yourself?
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+We'd love your help! Here's how to get started:
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+<details>
+<summary><strong>Quick Setup Guide</strong></summary>
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+```bash
+# 1. Fork and clone
+git clone git@github.com:your-username/legesher-pride.git
+cd legesher-pride
+```
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Submitting Your Fix:**
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
- 
- **Possible Solution**
-Any thoughts as to potential solutions or ideas to go about finding one. Please include links to any research.
+1. Create a branch: `git checkout -b fix/describe-the-bug`
+2. Make your changes
+3. Commit with a clear message: `fix: description of what you fixed`
+4. Open a pull request referencing this issue
 
-**Additional context**
-Add any other context about the problem here.
+</details>

@@ -1,0 +1,30 @@
+# Lock closed issues after inactivity
+# Replaces dessant/lock-threads
+
+name: Lock Threads
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # Run daily at 1 AM UTC
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  lock:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dessant/lock-threads@v5
+        with:
+          issue-inactive-days: 180
+          pr-inactive-days: 180
+          issue-comment: |
+            This issue has been automatically locked since there has not been any recent activity after it was closed.
+            Please open a new issue for related bugs and reference this issue.
+            Thanks!
+          pr-comment: |
+            This pull request has been automatically locked since there has not been any recent activity after it was closed.
+            Please open a new PR if you need to continue this work.
+          exempt-issue-labels: 'help-wanted,pinned'

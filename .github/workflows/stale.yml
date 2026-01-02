@@ -1,0 +1,37 @@
+# Mark and close stale issues
+# Replaces probot-stale
+
+name: Stale Issues
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight UTC
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  issues: write
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          stale-issue-message: |
+            Thanks for your contribution!
+
+            This issue has been automatically marked as stale because it has not had recent activity. Because the Legesher team treats their issues as their backlog, stale issues are closed.
+
+            If you would like this issue to remain open:
+            1. Verify that you can still reproduce the issue
+            2. Comment that the issue is still reproducible and include relevant details
+
+            Thank you!
+          close-issue-message: |
+            This issue has been automatically closed due to inactivity. Feel free to reopen if this is still relevant.
+          stale-issue-label: 'Status: Stale'
+          days-before-stale: 365
+          days-before-close: 14
+          exempt-issue-labels: 'pinned,security,help-wanted'
+          only-labels: ''
+          operations-per-run: 100
